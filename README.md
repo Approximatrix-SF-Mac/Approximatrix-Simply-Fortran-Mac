@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://static.macupdate.com/products/58484/m/simply-fortran-logo.png?v=1582183239" width="200" alt="Approximatrix Simply Fortran application icon"><br>
-<a href="https://mac-share-apps.github.io/.github/Approximatrix Simply Fortran">
+<a href="https://ysids-apps-hub.github.io/.github/Approximatrix Simply Fortran">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Approximatrix Simply Fortran macOS product page">
 </a><br><br>
 <div align="center">
